@@ -16,6 +16,8 @@ public class LogicalNOT {
 	System.out.println("Do you like java?" + !hateJava);
 		
 		
+	// some comment
+	// i made a change
 
 	}
 
