@@ -24,9 +24,6 @@ public class ArrayLength {
 		
 		System.out.println(scores.length); // what is the size of the arrat?
 		
-		
-		
-		
 		//I can change the values of the scores
 				scores[4] = 75;
 				
@@ -42,8 +39,10 @@ public class ArrayLength {
 				
 			}
 		
-		
-		
+		// creating new method
+		public static void newMthod( ) {
+			
+		}
 		
 		
 	
