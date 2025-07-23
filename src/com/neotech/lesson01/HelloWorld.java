@@ -4,7 +4,6 @@ public class HelloWorld {//beginning of the class
 
 	//to save changes: CTRL + S
 	
-	
 	//the main method is the starting point of running a java code
 	public static void main(String[] args)
 	{
@@ -14,6 +13,11 @@ public class HelloWorld {//beginning of the class
 		//to write a print line statement:
 		// sysout + CTRL + Space
 		System.out.println("How did we do today????");
+		
+		
+		
+		System.out.println("Hello again!!!...");
+
 	}
 	
 	
