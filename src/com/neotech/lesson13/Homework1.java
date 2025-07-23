@@ -36,5 +36,9 @@ public class Homework1 {
 		System.out.println(names[0][3] + " " + names[1][1]);
 
 	}
+	
+	public void tets1() {
+		System.out.println("This is test one");
+	}
 
 }
