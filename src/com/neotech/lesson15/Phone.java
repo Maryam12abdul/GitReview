@@ -23,4 +23,8 @@ public class Phone {
 		System.out.println(brand + " navigates!");
 	}
 
+	// this method is added by elion
+	void installApplication() {
+		System.out.println(brand + " installing the application!");
+	}
 }
