@@ -30,8 +30,7 @@ public class Homework1 {
 		System.out.println("Enter a number: ");
 		int num = scan.nextInt();
 		
-		
-		
+
 		 
 		//create the outer loop
 		
@@ -54,10 +53,14 @@ public class Homework1 {
 			
 			System.out.println();
 		}
+	}
+		// creating new method
+		public static void newMethod() {
 		
-				
-				
+		}
+			
 		
+	
 		
 		
 		
@@ -65,4 +68,4 @@ public class Homework1 {
 		
 	}
 
-}
+
