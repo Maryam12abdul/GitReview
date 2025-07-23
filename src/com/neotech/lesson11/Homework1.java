@@ -58,12 +58,16 @@ public class Homework1 {
 		public static void newMethod() {
 				
 	}
+
 	public static void test1() {
 		
 	}
+	private void syso() {
+
+	}
 		
 		
-		
+
 		
 		
 	}
