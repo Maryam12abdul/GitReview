@@ -7,7 +7,7 @@ public class NewClass {
 
 		System.out.println("We are doing great so far!");
 		
-		
+		System.out.println("Work done ");
 		
 		
 	}
