@@ -15,7 +15,6 @@ public class HelloWorld {//beginning of the class
 		System.out.println("How did we do today????");
 		
 		
-		
 		System.out.println("Hello again!!!...");
 
 	}
