@@ -56,7 +56,18 @@ public class Homework1 {
 	}
 		// creating new method
 		public static void newMethod() {
+				
+	}
+	public static void test1() {
 		
+	}
+		
+		
+		
+		
+		
+	}
+
 		}
 			
 		
